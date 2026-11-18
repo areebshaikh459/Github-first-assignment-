@@ -1,0 +1,25 @@
+Week 01 – How Computers and the Internet Work
+This document contains beginner-friendly notes for Week 01. 
+Students will learn the basic concepts of computers, the internet, browsers, websites, DNS, networks, files, folders, and cloud storage.
+Computer Hardware and Software
+Hardware means the physical parts of a computer that we can see and touch, such as a keyboard, mouse, monitor, CPU, RAM, and printer. Software means programs and applications like Windows, Chrome, Microsoft Word, and VS Code.
+Operating Systems
+An operating system is the main software that manages the computer. Examples include Windows, macOS, Linux, Android, and iOS.
+How the Internet Works
+The internet is a global network of connected devices. When you open a website, your device sends a request to a server, and the server sends information back.
+Browsers and Websites
+A browser is software used to open websites, such as Google Chrome, Edge, or Firefox. A website is a collection of web pages.
+DNS and Domain Names
+DNS stands for Domain Name System. It helps convert easy website names like google.com into IP addresses.
+Search Engines
+Search engines like Google and Bing help users find information on the internet.
+Understanding Networks
+A network is a group of connected devices that can share information.
+How Data Travels Across the Internet
+Data travels in small packets through networks and reaches its destination.
+Files, Folders, and Cloud Storage
+Files store information, folders organize files, and cloud storage services like Google Drive keep files online.
+Hands-on Activity
+Create an organized folder structure on your computer and upload important files to Google Drive.
+Week 1 Assignment
+Create a Word or Google Docs file explaining all Week 1 topics in simple language. Share your learning on LinkedIn and save your work in the Week-01 folder of your GitHub repository.
